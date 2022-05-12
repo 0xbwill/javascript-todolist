@@ -19,14 +19,13 @@ body {
 
 /* To Do container*/
 .header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .header > * {
-    margin: 0 15px;
-
+  margin: 0 15px;
 }
 
 .todo {
@@ -60,7 +59,7 @@ input {
   padding: 0.25rem;
 }
 
-.validated > * {
+.validated li {
   text-decoration: line-through;
 }
 
