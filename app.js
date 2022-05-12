@@ -53,34 +53,3 @@ function deleteTodo(e) {
     todo.classList.toggle("validated");
   }
 }
-
-let users = [
-  {
-    name: "Moussa",
-    age: 22,
-  },
-  {
-    name: "Adama",
-    age: 27,
-  },
-  {
-    name: "Djiby",
-    age: 30,
-  },
-  {
-    name: "Moustapha",
-    age: 22,
-  },
-  {
-    name: "Binta",
-    age: 25,
-  },
-  {
-    name: "Ahmed",
-    age: 18,
-  },
-  {
-    name: "Elvis",
-    age: 25,
-  },
-];
